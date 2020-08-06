@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BehavioralBiometricsAuthentication</string>
+
+    <string-array name="data_types">
+        <item>orientation</item>
+        <item>keyboard</item>
+        <item>touch</item>
+    </string-array>
+</resources>

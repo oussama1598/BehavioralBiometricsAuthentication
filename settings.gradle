@@ -1,0 +1,3 @@
+include ':authenticationLibrary'
+include ':app'
+rootProject.name = "BehavioralBiometricsAuthentication"
